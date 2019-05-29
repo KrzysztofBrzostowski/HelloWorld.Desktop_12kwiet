@@ -1,0 +1,156 @@
+G:\Korepetycje C#\Prism\Quickstarts\Hello World\HelloWorld.Desktop\HelloWorld.Desktop\bin\Debug\HelloWorld.exe.config
+G:\Korepetycje C#\Prism\Quickstarts\Hello World\HelloWorld.Desktop\HelloWorld.Desktop\bin\Debug\HelloWorld.exe
+G:\Korepetycje C#\Prism\Quickstarts\Hello World\HelloWorld.Desktop\HelloWorld.Desktop\bin\Debug\HelloWorld.pdb
+G:\Korepetycje C#\Prism\Quickstarts\Hello World\HelloWorld.Desktop\HelloWorld.Desktop\bin\Debug\HelloWorldModule.dll
+G:\Korepetycje C#\Prism\Quickstarts\Hello World\HelloWorld.Desktop\HelloWorld.Desktop\bin\Debug\Microsoft.Practices.Prism.dll
+G:\Korepetycje C#\Prism\Quickstarts\Hello World\HelloWorld.Desktop\HelloWorld.Desktop\bin\Debug\Microsoft.Practices.Prism.UnityExtensions.dll
+G:\Korepetycje C#\Prism\Quickstarts\Hello World\HelloWorld.Desktop\HelloWorld.Desktop\bin\Debug\Microsoft.Practices.Unity.dll
+G:\Korepetycje C#\Prism\Quickstarts\Hello World\HelloWorld.Desktop\HelloWorld.Desktop\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+G:\Korepetycje C#\Prism\Quickstarts\Hello World\HelloWorld.Desktop\HelloWorld.Desktop\bin\Debug\HelloWorldModule.pdb
+G:\Korepetycje C#\Prism\Quickstarts\Hello World\HelloWorld.Desktop\HelloWorld.Desktop\bin\Debug\Microsoft.Practices.Unity.xml
+G:\Korepetycje C#\Prism\Quickstarts\Hello World\HelloWorld.Desktop\HelloWorld.Desktop\bin\Debug\Microsoft.Practices.Prism.UnityExtensions.pdb
+G:\Korepetycje C#\Prism\Quickstarts\Hello World\HelloWorld.Desktop\HelloWorld.Desktop\bin\Debug\Microsoft.Practices.Prism.UnityExtensions.xml
+G:\Korepetycje C#\Prism\Quickstarts\Hello World\HelloWorld.Desktop\HelloWorld.Desktop\bin\Debug\Microsoft.Practices.Prism.pdb
+G:\Korepetycje C#\Prism\Quickstarts\Hello World\HelloWorld.Desktop\HelloWorld.Desktop\bin\Debug\Microsoft.Practices.Prism.xml
+G:\Korepetycje C#\Prism\Quickstarts\Hello World\HelloWorld.Desktop\HelloWorld.Desktop\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+G:\Korepetycje C#\Prism\Quickstarts\Hello World\HelloWorld.Desktop\HelloWorld.Desktop\obj\Debug\ResolveAssemblyReference.cache
+G:\Korepetycje C#\Prism\Quickstarts\Hello World\HelloWorld.Desktop\HelloWorld.Desktop\obj\Debug\Shell.baml
+G:\Korepetycje C#\Prism\Quickstarts\Hello World\HelloWorld.Desktop\HelloWorld.Desktop\obj\Debug\Shell.g.cs
+G:\Korepetycje C#\Prism\Quickstarts\Hello World\HelloWorld.Desktop\HelloWorld.Desktop\obj\Debug\App.g.cs
+G:\Korepetycje C#\Prism\Quickstarts\Hello World\HelloWorld.Desktop\HelloWorld.Desktop\obj\Debug\HelloWorld_MarkupCompile.cache
+G:\Korepetycje C#\Prism\Quickstarts\Hello World\HelloWorld.Desktop\HelloWorld.Desktop\obj\Debug\HelloWorld.g.resources
+G:\Korepetycje C#\Prism\Quickstarts\Hello World\HelloWorld.Desktop\HelloWorld.Desktop\obj\Debug\HelloWorld.Properties.Resources.resources
+G:\Korepetycje C#\Prism\Quickstarts\Hello World\HelloWorld.Desktop\HelloWorld.Desktop\obj\Debug\GenerateResource.read.1.tlog
+G:\Korepetycje C#\Prism\Quickstarts\Hello World\HelloWorld.Desktop\HelloWorld.Desktop\obj\Debug\GenerateResource.write.1.tlog
+G:\Korepetycje C#\Prism\Quickstarts\Hello World\HelloWorld.Desktop\HelloWorld.Desktop\obj\Debug\HelloWorld.exe
+G:\Korepetycje C#\Prism\Quickstarts\Hello World\HelloWorld.Desktop\HelloWorld.Desktop\obj\Debug\HelloWorld.pdb
+C:\Users\Ela\Desktop\Korepetycje C#\Prism\Quickstarts\Hello World\HelloWorld.Desktop\HelloWorld.Desktop\bin\Debug\HelloWorld.exe.config
+C:\Users\Ela\Desktop\Korepetycje C#\Prism\Quickstarts\Hello World\HelloWorld.Desktop\HelloWorld.Desktop\obj\Debug\HelloWorld.exe
+C:\Users\Ela\Desktop\Korepetycje C#\Prism\Quickstarts\Hello World\HelloWorld.Desktop\HelloWorld.Desktop\obj\Debug\HelloWorld.pdb
+C:\Users\Ela\Desktop\Korepetycje C#\Prism\Quickstarts\Hello World\HelloWorld.Desktop\HelloWorld.Desktop\bin\Debug\HelloWorld.exe
+C:\Users\Ela\Desktop\Korepetycje C#\Prism\Quickstarts\Hello World\HelloWorld.Desktop\HelloWorld.Desktop\bin\Debug\HelloWorld.pdb
+C:\Users\Ela\Desktop\Korepetycje C#\Prism\Quickstarts\Hello World\HelloWorld.Desktop\HelloWorld.Desktop\bin\Debug\HelloWorldModule.dll
+C:\Users\Ela\Desktop\Korepetycje C#\Prism\Quickstarts\Hello World\HelloWorld.Desktop\HelloWorld.Desktop\bin\Debug\Microsoft.Practices.Prism.dll
+C:\Users\Ela\Desktop\Korepetycje C#\Prism\Quickstarts\Hello World\HelloWorld.Desktop\HelloWorld.Desktop\bin\Debug\Microsoft.Practices.Prism.UnityExtensions.dll
+C:\Users\Ela\Desktop\Korepetycje C#\Prism\Quickstarts\Hello World\HelloWorld.Desktop\HelloWorld.Desktop\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\Ela\Desktop\Korepetycje C#\Prism\Quickstarts\Hello World\HelloWorld.Desktop\HelloWorld.Desktop\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Ela\Desktop\Korepetycje C#\Prism\Quickstarts\Hello World\HelloWorld.Desktop\HelloWorld.Desktop\bin\Debug\HelloWorldModule.pdb
+C:\Users\Ela\Desktop\Korepetycje C#\Prism\Quickstarts\Hello World\HelloWorld.Desktop\HelloWorld.Desktop\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\Ela\Desktop\Korepetycje C#\Prism\Quickstarts\Hello World\HelloWorld.Desktop\HelloWorld.Desktop\bin\Debug\Microsoft.Practices.Prism.UnityExtensions.pdb
+C:\Users\Ela\Desktop\Korepetycje C#\Prism\Quickstarts\Hello World\HelloWorld.Desktop\HelloWorld.Desktop\bin\Debug\Microsoft.Practices.Prism.UnityExtensions.xml
+C:\Users\Ela\Desktop\Korepetycje C#\Prism\Quickstarts\Hello World\HelloWorld.Desktop\HelloWorld.Desktop\bin\Debug\Microsoft.Practices.Prism.pdb
+C:\Users\Ela\Desktop\Korepetycje C#\Prism\Quickstarts\Hello World\HelloWorld.Desktop\HelloWorld.Desktop\bin\Debug\Microsoft.Practices.Prism.xml
+C:\Users\Ela\Desktop\Korepetycje C#\Prism\Quickstarts\Hello World\HelloWorld.Desktop\HelloWorld.Desktop\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\Ela\Desktop\Korepetycje C#\Prism\Quickstarts\Hello World\HelloWorld.Desktop\HelloWorld.Desktop\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Ela\Desktop\Korepetycje C#\Prism\Quickstarts\Hello World\HelloWorld.Desktop\HelloWorld.Desktop\obj\Debug\Shell.baml
+C:\Users\Ela\Desktop\Korepetycje C#\Prism\Quickstarts\Hello World\HelloWorld.Desktop\HelloWorld.Desktop\obj\Debug\Shell.g.cs
+C:\Users\Ela\Desktop\Korepetycje C#\Prism\Quickstarts\Hello World\HelloWorld.Desktop\HelloWorld.Desktop\obj\Debug\App.g.cs
+C:\Users\Ela\Desktop\Korepetycje C#\Prism\Quickstarts\Hello World\HelloWorld.Desktop\HelloWorld.Desktop\obj\Debug\HelloWorld_MarkupCompile.cache
+C:\Users\Ela\Desktop\Korepetycje C#\Prism\Quickstarts\Hello World\HelloWorld.Desktop\HelloWorld.Desktop\obj\Debug\HelloWorld.g.resources
+C:\Users\Ela\Desktop\Korepetycje C#\Prism\Quickstarts\Hello World\HelloWorld.Desktop\HelloWorld.Desktop\obj\Debug\HelloWorld.Properties.Resources.resources
+C:\Users\Ela\Desktop\Korepetycje C#\Prism\Quickstarts\Hello World\HelloWorld.Desktop\HelloWorld.Desktop\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Ela\Desktop\Korepetycje C#\Prism\Quickstarts\Hello World\HelloWorld.Desktop\HelloWorld.Desktop\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Ela\Desktop\C#_PRISM\Prism\Quickstarts\Hello World\HelloWorld.Desktop\HelloWorld.Desktop\bin\Debug\HelloWorld.exe.config
+C:\Users\Ela\Desktop\C#_PRISM\Prism\Quickstarts\Hello World\HelloWorld.Desktop\HelloWorld.Desktop\obj\Debug\HelloWorld.exe
+C:\Users\Ela\Desktop\C#_PRISM\Prism\Quickstarts\Hello World\HelloWorld.Desktop\HelloWorld.Desktop\obj\Debug\HelloWorld.pdb
+C:\Users\Ela\Desktop\C#_PRISM\Prism\Quickstarts\Hello World\HelloWorld.Desktop\HelloWorld.Desktop\bin\Debug\HelloWorld.exe
+C:\Users\Ela\Desktop\C#_PRISM\Prism\Quickstarts\Hello World\HelloWorld.Desktop\HelloWorld.Desktop\bin\Debug\HelloWorld.pdb
+C:\Users\Ela\Desktop\C#_PRISM\Prism\Quickstarts\Hello World\HelloWorld.Desktop\HelloWorld.Desktop\bin\Debug\HelloWorldModule.dll
+C:\Users\Ela\Desktop\C#_PRISM\Prism\Quickstarts\Hello World\HelloWorld.Desktop\HelloWorld.Desktop\bin\Debug\Microsoft.Practices.Prism.dll
+C:\Users\Ela\Desktop\C#_PRISM\Prism\Quickstarts\Hello World\HelloWorld.Desktop\HelloWorld.Desktop\bin\Debug\Microsoft.Practices.Prism.UnityExtensions.dll
+C:\Users\Ela\Desktop\C#_PRISM\Prism\Quickstarts\Hello World\HelloWorld.Desktop\HelloWorld.Desktop\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\Ela\Desktop\C#_PRISM\Prism\Quickstarts\Hello World\HelloWorld.Desktop\HelloWorld.Desktop\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Ela\Desktop\C#_PRISM\Prism\Quickstarts\Hello World\HelloWorld.Desktop\HelloWorld.Desktop\bin\Debug\HelloWorldModule.pdb
+C:\Users\Ela\Desktop\C#_PRISM\Prism\Quickstarts\Hello World\HelloWorld.Desktop\HelloWorld.Desktop\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\Ela\Desktop\C#_PRISM\Prism\Quickstarts\Hello World\HelloWorld.Desktop\HelloWorld.Desktop\bin\Debug\Microsoft.Practices.Prism.UnityExtensions.pdb
+C:\Users\Ela\Desktop\C#_PRISM\Prism\Quickstarts\Hello World\HelloWorld.Desktop\HelloWorld.Desktop\bin\Debug\Microsoft.Practices.Prism.UnityExtensions.xml
+C:\Users\Ela\Desktop\C#_PRISM\Prism\Quickstarts\Hello World\HelloWorld.Desktop\HelloWorld.Desktop\bin\Debug\Microsoft.Practices.Prism.pdb
+C:\Users\Ela\Desktop\C#_PRISM\Prism\Quickstarts\Hello World\HelloWorld.Desktop\HelloWorld.Desktop\bin\Debug\Microsoft.Practices.Prism.xml
+C:\Users\Ela\Desktop\C#_PRISM\Prism\Quickstarts\Hello World\HelloWorld.Desktop\HelloWorld.Desktop\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\Ela\Desktop\C#_PRISM\Prism\Quickstarts\Hello World\HelloWorld.Desktop\HelloWorld.Desktop\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Ela\Desktop\C#_PRISM\Prism\Quickstarts\Hello World\HelloWorld.Desktop\HelloWorld.Desktop\obj\Debug\Shell.baml
+C:\Users\Ela\Desktop\C#_PRISM\Prism\Quickstarts\Hello World\HelloWorld.Desktop\HelloWorld.Desktop\obj\Debug\Shell.g.cs
+C:\Users\Ela\Desktop\C#_PRISM\Prism\Quickstarts\Hello World\HelloWorld.Desktop\HelloWorld.Desktop\obj\Debug\App.g.cs
+C:\Users\Ela\Desktop\C#_PRISM\Prism\Quickstarts\Hello World\HelloWorld.Desktop\HelloWorld.Desktop\obj\Debug\HelloWorld_MarkupCompile.cache
+C:\Users\Ela\Desktop\C#_PRISM\Prism\Quickstarts\Hello World\HelloWorld.Desktop\HelloWorld.Desktop\obj\Debug\HelloWorld.g.resources
+C:\Users\Ela\Desktop\C#_PRISM\Prism\Quickstarts\Hello World\HelloWorld.Desktop\HelloWorld.Desktop\obj\Debug\HelloWorld.Properties.Resources.resources
+C:\Users\Ela\Desktop\C#_PRISM\Prism\Quickstarts\Hello World\HelloWorld.Desktop\HelloWorld.Desktop\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Ela\Desktop\C#_PRISM\Prism\Quickstarts\Hello World\HelloWorld.Desktop\HelloWorld.Desktop\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\kbrzosto\Desktop\biezace\C#_PRISM\Prism\Quickstarts\Hello World\HelloWorld.Desktop\HelloWorld.Desktop\bin\Debug\HelloWorld.exe.config
+C:\Users\kbrzosto\Desktop\biezace\C#_PRISM\Prism\Quickstarts\Hello World\HelloWorld.Desktop\HelloWorld.Desktop\obj\Debug\HelloWorld.exe
+C:\Users\kbrzosto\Desktop\biezace\C#_PRISM\Prism\Quickstarts\Hello World\HelloWorld.Desktop\HelloWorld.Desktop\obj\Debug\HelloWorld.pdb
+C:\Users\kbrzosto\Desktop\biezace\C#_PRISM\Prism\Quickstarts\Hello World\HelloWorld.Desktop\HelloWorld.Desktop\bin\Debug\HelloWorld.exe
+C:\Users\kbrzosto\Desktop\biezace\C#_PRISM\Prism\Quickstarts\Hello World\HelloWorld.Desktop\HelloWorld.Desktop\bin\Debug\HelloWorld.pdb
+C:\Users\kbrzosto\Desktop\biezace\C#_PRISM\Prism\Quickstarts\Hello World\HelloWorld.Desktop\HelloWorld.Desktop\bin\Debug\HelloWorldModule.dll
+C:\Users\kbrzosto\Desktop\biezace\C#_PRISM\Prism\Quickstarts\Hello World\HelloWorld.Desktop\HelloWorld.Desktop\bin\Debug\Microsoft.Practices.Prism.dll
+C:\Users\kbrzosto\Desktop\biezace\C#_PRISM\Prism\Quickstarts\Hello World\HelloWorld.Desktop\HelloWorld.Desktop\bin\Debug\Microsoft.Practices.Prism.UnityExtensions.dll
+C:\Users\kbrzosto\Desktop\biezace\C#_PRISM\Prism\Quickstarts\Hello World\HelloWorld.Desktop\HelloWorld.Desktop\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\kbrzosto\Desktop\biezace\C#_PRISM\Prism\Quickstarts\Hello World\HelloWorld.Desktop\HelloWorld.Desktop\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\kbrzosto\Desktop\biezace\C#_PRISM\Prism\Quickstarts\Hello World\HelloWorld.Desktop\HelloWorld.Desktop\bin\Debug\HelloWorldModule.pdb
+C:\Users\kbrzosto\Desktop\biezace\C#_PRISM\Prism\Quickstarts\Hello World\HelloWorld.Desktop\HelloWorld.Desktop\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\kbrzosto\Desktop\biezace\C#_PRISM\Prism\Quickstarts\Hello World\HelloWorld.Desktop\HelloWorld.Desktop\bin\Debug\Microsoft.Practices.Prism.UnityExtensions.pdb
+C:\Users\kbrzosto\Desktop\biezace\C#_PRISM\Prism\Quickstarts\Hello World\HelloWorld.Desktop\HelloWorld.Desktop\bin\Debug\Microsoft.Practices.Prism.UnityExtensions.xml
+C:\Users\kbrzosto\Desktop\biezace\C#_PRISM\Prism\Quickstarts\Hello World\HelloWorld.Desktop\HelloWorld.Desktop\bin\Debug\Microsoft.Practices.Prism.pdb
+C:\Users\kbrzosto\Desktop\biezace\C#_PRISM\Prism\Quickstarts\Hello World\HelloWorld.Desktop\HelloWorld.Desktop\bin\Debug\Microsoft.Practices.Prism.xml
+C:\Users\kbrzosto\Desktop\biezace\C#_PRISM\Prism\Quickstarts\Hello World\HelloWorld.Desktop\HelloWorld.Desktop\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\kbrzosto\Desktop\biezace\C#_PRISM\Prism\Quickstarts\Hello World\HelloWorld.Desktop\HelloWorld.Desktop\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\kbrzosto\Desktop\biezace\C#_PRISM\Prism\Quickstarts\Hello World\HelloWorld.Desktop\HelloWorld.Desktop\obj\Debug\Shell.baml
+C:\Users\kbrzosto\Desktop\biezace\C#_PRISM\Prism\Quickstarts\Hello World\HelloWorld.Desktop\HelloWorld.Desktop\obj\Debug\Shell.g.cs
+C:\Users\kbrzosto\Desktop\biezace\C#_PRISM\Prism\Quickstarts\Hello World\HelloWorld.Desktop\HelloWorld.Desktop\obj\Debug\App.g.cs
+C:\Users\kbrzosto\Desktop\biezace\C#_PRISM\Prism\Quickstarts\Hello World\HelloWorld.Desktop\HelloWorld.Desktop\obj\Debug\HelloWorld_MarkupCompile.cache
+C:\Users\kbrzosto\Desktop\biezace\C#_PRISM\Prism\Quickstarts\Hello World\HelloWorld.Desktop\HelloWorld.Desktop\obj\Debug\HelloWorld.g.resources
+C:\Users\kbrzosto\Desktop\biezace\C#_PRISM\Prism\Quickstarts\Hello World\HelloWorld.Desktop\HelloWorld.Desktop\obj\Debug\HelloWorld.Properties.Resources.resources
+C:\Users\kbrzosto\Desktop\biezace\C#_PRISM\Prism\Quickstarts\Hello World\HelloWorld.Desktop\HelloWorld.Desktop\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\kbrzosto\Desktop\biezace\C#_PRISM\Prism\Quickstarts\Hello World\HelloWorld.Desktop\HelloWorld.Desktop\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Ela\Desktop\bierzace_IPPT\C#_PRISM\Prism\Quickstarts\Hello World01_menu_stat\HelloWorld.Desktop\HelloWorld.Desktop\bin\Debug\HelloWorld.exe.config
+C:\Users\Ela\Desktop\bierzace_IPPT\C#_PRISM\Prism\Quickstarts\Hello World01_menu_stat\HelloWorld.Desktop\HelloWorld.Desktop\obj\Debug\HelloWorld.exe
+C:\Users\Ela\Desktop\bierzace_IPPT\C#_PRISM\Prism\Quickstarts\Hello World01_menu_stat\HelloWorld.Desktop\HelloWorld.Desktop\obj\Debug\HelloWorld.pdb
+C:\Users\Ela\Desktop\bierzace_IPPT\C#_PRISM\Prism\Quickstarts\Hello World01_menu_stat\HelloWorld.Desktop\HelloWorld.Desktop\bin\Debug\HelloWorld.exe
+C:\Users\Ela\Desktop\bierzace_IPPT\C#_PRISM\Prism\Quickstarts\Hello World01_menu_stat\HelloWorld.Desktop\HelloWorld.Desktop\bin\Debug\HelloWorld.pdb
+C:\Users\Ela\Desktop\bierzace_IPPT\C#_PRISM\Prism\Quickstarts\Hello World01_menu_stat\HelloWorld.Desktop\HelloWorld.Desktop\bin\Debug\HelloWorldModule.dll
+C:\Users\Ela\Desktop\bierzace_IPPT\C#_PRISM\Prism\Quickstarts\Hello World01_menu_stat\HelloWorld.Desktop\HelloWorld.Desktop\bin\Debug\Microsoft.Practices.Prism.dll
+C:\Users\Ela\Desktop\bierzace_IPPT\C#_PRISM\Prism\Quickstarts\Hello World01_menu_stat\HelloWorld.Desktop\HelloWorld.Desktop\bin\Debug\Microsoft.Practices.Prism.UnityExtensions.dll
+C:\Users\Ela\Desktop\bierzace_IPPT\C#_PRISM\Prism\Quickstarts\Hello World01_menu_stat\HelloWorld.Desktop\HelloWorld.Desktop\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\Ela\Desktop\bierzace_IPPT\C#_PRISM\Prism\Quickstarts\Hello World01_menu_stat\HelloWorld.Desktop\HelloWorld.Desktop\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Ela\Desktop\bierzace_IPPT\C#_PRISM\Prism\Quickstarts\Hello World01_menu_stat\HelloWorld.Desktop\HelloWorld.Desktop\bin\Debug\HelloWorldModule.pdb
+C:\Users\Ela\Desktop\bierzace_IPPT\C#_PRISM\Prism\Quickstarts\Hello World01_menu_stat\HelloWorld.Desktop\HelloWorld.Desktop\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\Ela\Desktop\bierzace_IPPT\C#_PRISM\Prism\Quickstarts\Hello World01_menu_stat\HelloWorld.Desktop\HelloWorld.Desktop\bin\Debug\Microsoft.Practices.Prism.UnityExtensions.pdb
+C:\Users\Ela\Desktop\bierzace_IPPT\C#_PRISM\Prism\Quickstarts\Hello World01_menu_stat\HelloWorld.Desktop\HelloWorld.Desktop\bin\Debug\Microsoft.Practices.Prism.UnityExtensions.xml
+C:\Users\Ela\Desktop\bierzace_IPPT\C#_PRISM\Prism\Quickstarts\Hello World01_menu_stat\HelloWorld.Desktop\HelloWorld.Desktop\bin\Debug\Microsoft.Practices.Prism.pdb
+C:\Users\Ela\Desktop\bierzace_IPPT\C#_PRISM\Prism\Quickstarts\Hello World01_menu_stat\HelloWorld.Desktop\HelloWorld.Desktop\bin\Debug\Microsoft.Practices.Prism.xml
+C:\Users\Ela\Desktop\bierzace_IPPT\C#_PRISM\Prism\Quickstarts\Hello World01_menu_stat\HelloWorld.Desktop\HelloWorld.Desktop\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\Ela\Desktop\bierzace_IPPT\C#_PRISM\Prism\Quickstarts\Hello World01_menu_stat\HelloWorld.Desktop\HelloWorld.Desktop\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Ela\Desktop\bierzace_IPPT\C#_PRISM\Prism\Quickstarts\Hello World01_menu_stat\HelloWorld.Desktop\HelloWorld.Desktop\obj\Debug\Shell.baml
+C:\Users\Ela\Desktop\bierzace_IPPT\C#_PRISM\Prism\Quickstarts\Hello World01_menu_stat\HelloWorld.Desktop\HelloWorld.Desktop\obj\Debug\Shell.g.cs
+C:\Users\Ela\Desktop\bierzace_IPPT\C#_PRISM\Prism\Quickstarts\Hello World01_menu_stat\HelloWorld.Desktop\HelloWorld.Desktop\obj\Debug\App.g.cs
+C:\Users\Ela\Desktop\bierzace_IPPT\C#_PRISM\Prism\Quickstarts\Hello World01_menu_stat\HelloWorld.Desktop\HelloWorld.Desktop\obj\Debug\HelloWorld_MarkupCompile.cache
+C:\Users\Ela\Desktop\bierzace_IPPT\C#_PRISM\Prism\Quickstarts\Hello World01_menu_stat\HelloWorld.Desktop\HelloWorld.Desktop\obj\Debug\HelloWorld.g.resources
+C:\Users\Ela\Desktop\bierzace_IPPT\C#_PRISM\Prism\Quickstarts\Hello World01_menu_stat\HelloWorld.Desktop\HelloWorld.Desktop\obj\Debug\HelloWorld.Properties.Resources.resources
+C:\Users\Ela\Desktop\bierzace_IPPT\C#_PRISM\Prism\Quickstarts\Hello World01_menu_stat\HelloWorld.Desktop\HelloWorld.Desktop\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Ela\Desktop\bierzace_IPPT\C#_PRISM\Prism\Quickstarts\Hello World01_menu_stat\HelloWorld.Desktop\HelloWorld.Desktop\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Ela\Desktop\bierzace_IPPT\WPF_Cs_Nauka_ProjektyTestowe\Moje_Moje\HelloWorld.Desktop_12kwiet\HelloWorld.Desktop\HelloWorld.Desktop\bin\Debug\HelloWorld.exe.config
+C:\Users\Ela\Desktop\bierzace_IPPT\WPF_Cs_Nauka_ProjektyTestowe\Moje_Moje\HelloWorld.Desktop_12kwiet\HelloWorld.Desktop\HelloWorld.Desktop\obj\Debug\HelloWorld.exe
+C:\Users\Ela\Desktop\bierzace_IPPT\WPF_Cs_Nauka_ProjektyTestowe\Moje_Moje\HelloWorld.Desktop_12kwiet\HelloWorld.Desktop\HelloWorld.Desktop\obj\Debug\HelloWorld.pdb
+C:\Users\Ela\Desktop\bierzace_IPPT\WPF_Cs_Nauka_ProjektyTestowe\Moje_Moje\HelloWorld.Desktop_12kwiet\HelloWorld.Desktop\HelloWorld.Desktop\bin\Debug\HelloWorld.exe
+C:\Users\Ela\Desktop\bierzace_IPPT\WPF_Cs_Nauka_ProjektyTestowe\Moje_Moje\HelloWorld.Desktop_12kwiet\HelloWorld.Desktop\HelloWorld.Desktop\bin\Debug\HelloWorld.pdb
+C:\Users\Ela\Desktop\bierzace_IPPT\WPF_Cs_Nauka_ProjektyTestowe\Moje_Moje\HelloWorld.Desktop_12kwiet\HelloWorld.Desktop\HelloWorld.Desktop\bin\Debug\HelloWorldModule.dll
+C:\Users\Ela\Desktop\bierzace_IPPT\WPF_Cs_Nauka_ProjektyTestowe\Moje_Moje\HelloWorld.Desktop_12kwiet\HelloWorld.Desktop\HelloWorld.Desktop\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Ela\Desktop\bierzace_IPPT\WPF_Cs_Nauka_ProjektyTestowe\Moje_Moje\HelloWorld.Desktop_12kwiet\HelloWorld.Desktop\HelloWorld.Desktop\bin\Debug\HelloWorldModule.pdb
+C:\Users\Ela\Desktop\bierzace_IPPT\WPF_Cs_Nauka_ProjektyTestowe\Moje_Moje\HelloWorld.Desktop_12kwiet\HelloWorld.Desktop\HelloWorld.Desktop\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\Ela\Desktop\bierzace_IPPT\WPF_Cs_Nauka_ProjektyTestowe\Moje_Moje\HelloWorld.Desktop_12kwiet\HelloWorld.Desktop\HelloWorld.Desktop\bin\Debug\Microsoft.Practices.Prism.UnityExtensions.pdb
+C:\Users\Ela\Desktop\bierzace_IPPT\WPF_Cs_Nauka_ProjektyTestowe\Moje_Moje\HelloWorld.Desktop_12kwiet\HelloWorld.Desktop\HelloWorld.Desktop\bin\Debug\Microsoft.Practices.Prism.UnityExtensions.xml
+C:\Users\Ela\Desktop\bierzace_IPPT\WPF_Cs_Nauka_ProjektyTestowe\Moje_Moje\HelloWorld.Desktop_12kwiet\HelloWorld.Desktop\HelloWorld.Desktop\bin\Debug\Microsoft.Practices.Prism.pdb
+C:\Users\Ela\Desktop\bierzace_IPPT\WPF_Cs_Nauka_ProjektyTestowe\Moje_Moje\HelloWorld.Desktop_12kwiet\HelloWorld.Desktop\HelloWorld.Desktop\bin\Debug\Microsoft.Practices.Prism.xml
+C:\Users\Ela\Desktop\bierzace_IPPT\WPF_Cs_Nauka_ProjektyTestowe\Moje_Moje\HelloWorld.Desktop_12kwiet\HelloWorld.Desktop\HelloWorld.Desktop\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\Ela\Desktop\bierzace_IPPT\WPF_Cs_Nauka_ProjektyTestowe\Moje_Moje\HelloWorld.Desktop_12kwiet\HelloWorld.Desktop\HelloWorld.Desktop\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Ela\Desktop\bierzace_IPPT\WPF_Cs_Nauka_ProjektyTestowe\Moje_Moje\HelloWorld.Desktop_12kwiet\HelloWorld.Desktop\HelloWorld.Desktop\obj\Debug\Shell.baml
+C:\Users\Ela\Desktop\bierzace_IPPT\WPF_Cs_Nauka_ProjektyTestowe\Moje_Moje\HelloWorld.Desktop_12kwiet\HelloWorld.Desktop\HelloWorld.Desktop\obj\Debug\Shell.g.cs
+C:\Users\Ela\Desktop\bierzace_IPPT\WPF_Cs_Nauka_ProjektyTestowe\Moje_Moje\HelloWorld.Desktop_12kwiet\HelloWorld.Desktop\HelloWorld.Desktop\obj\Debug\App.g.cs
+C:\Users\Ela\Desktop\bierzace_IPPT\WPF_Cs_Nauka_ProjektyTestowe\Moje_Moje\HelloWorld.Desktop_12kwiet\HelloWorld.Desktop\HelloWorld.Desktop\obj\Debug\HelloWorld_MarkupCompile.cache
+C:\Users\Ela\Desktop\bierzace_IPPT\WPF_Cs_Nauka_ProjektyTestowe\Moje_Moje\HelloWorld.Desktop_12kwiet\HelloWorld.Desktop\HelloWorld.Desktop\obj\Debug\HelloWorld.g.resources
+C:\Users\Ela\Desktop\bierzace_IPPT\WPF_Cs_Nauka_ProjektyTestowe\Moje_Moje\HelloWorld.Desktop_12kwiet\HelloWorld.Desktop\HelloWorld.Desktop\obj\Debug\HelloWorld.Properties.Resources.resources
+C:\Users\Ela\Desktop\bierzace_IPPT\WPF_Cs_Nauka_ProjektyTestowe\Moje_Moje\HelloWorld.Desktop_12kwiet\HelloWorld.Desktop\HelloWorld.Desktop\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Ela\Desktop\bierzace_IPPT\WPF_Cs_Nauka_ProjektyTestowe\Moje_Moje\HelloWorld.Desktop_12kwiet\HelloWorld.Desktop\HelloWorld.Desktop\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Ela\Desktop\IPPT_stare\WPF_Cs_Nauka_ProjektyTestowe\Moje_Moje\HelloWorld.Desktop_12kwiet\HelloWorld.Desktop\HelloWorld.Desktop\bin\Debug\HelloWorld.exe.config
+C:\Users\Ela\Desktop\IPPT_stare\WPF_Cs_Nauka_ProjektyTestowe\Moje_Moje\HelloWorld.Desktop_12kwiet\HelloWorld.Desktop\HelloWorld.Desktop\obj\Debug\HelloWorld.exe
+C:\Users\Ela\Desktop\IPPT_stare\WPF_Cs_Nauka_ProjektyTestowe\Moje_Moje\HelloWorld.Desktop_12kwiet\HelloWorld.Desktop\HelloWorld.Desktop\obj\Debug\HelloWorld.pdb
